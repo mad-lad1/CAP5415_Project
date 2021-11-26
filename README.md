@@ -1,1 +1,2 @@
-# CAP5415_Project
+# Semantic Segmentation of Urban Scenes for Autonomous Vehicles:
+This project aims at using semantic segmentation (architecture to be studied later) to segment images of urban scenes. The dataset used is the [CityScapes Dataset](https://www.cityscapes-dataset.com/) and the pre_processed pytorch tensors can be found [here](https://drive.google.com/drive/folders/1NTjAVuM9cv8bx62_U_JJ5mKTYn4uxUR-?usp=sharing)
